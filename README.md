@@ -96,3 +96,4 @@ sudo logger -t MAHESH hello this is test
 	
 	
    	
+	
